@@ -1,5 +1,9 @@
 # Lab 6: Code and Branch Coverage Analysis
 
+Github Repo: https://github.com/BHOGALA-SRIKA/L6_L7_05_blood_donation_screening/tree/main/Lab%206
+
+
+
 ## Objective
 
 To understand the difference between code coverage and branch coverage, use Python coverage tools to measure test completeness, identify untested code paths, and improve test cases to achieve at least 90% coverage.
