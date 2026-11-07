@@ -1,5 +1,8 @@
 # Lab 7 – Fuzz Testing and Input Validation
 
+Github Repo: https://github.com/BHOGALA-SRIKA/L6_L7_05_blood_donation_screening/tree/main/Lab%207
+
+
 ## Objective
 To identify input validation bugs using fuzz testing and improve the robustness of Python functions by handling invalid, unexpected, and malformed inputs safely.
 
