@@ -20,3 +20,5 @@ Lab Submissions
 |       |[Architecture Diagram](LAB3/PES1UG24AM067_BhogalaSrika_Lab3_Diagram.pdf)|
 | Lab 4 |[https://github.com/BHOGALA-SRIKA/SE_LAB/blob/main/Lab4/SE%20Lab%204%20VibeCoding%20-%20Chat%20History%20(%20Balloon%20Pop).pdf]|
 | Lab 5 |[https://github.com/BHOGALA-SRIKA/SE_LAB/tree/main/Lab5/L5_05_food_delivery/]|
+| Lab 6 |[https://github.com/BHOGALA-SRIKA/SE_LAB/tree/main/Lab6]|
+| Lab 7 |[https://github.com/BHOGALA-SRIKA/SE_LAB/tree/main/Lab7]|
